@@ -17,6 +17,8 @@ function SnakeGameLogic() {
 
 SnakeGameLogic.prototype.up = function() {
   // 위쪽 화살표 키를 누르면 실행되는 함수
+
+  
   console.log('up');
 }
 
